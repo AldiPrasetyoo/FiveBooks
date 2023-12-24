@@ -1,0 +1,78 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  .header {
+    background-color: #002955;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .Kontainer {
+    width: 100%;
+    margin-top: 0px;
+    padding: 150px;
+    background-image: url('/asset/img/ewew.jpeg');
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+  }
+  .text {
+    text-align: right; 
+    padding: 100px; 
+    padding-left: 500px; 
+    color: #e91010;
+  }
+  
+  
+  .features {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    margin-left: 10px;
+    padding: 10px;
+  }
+  
+  .feature {
+    flex-basis: 40%;
+    padding: 10px;
+    margin-left: 10px;
+    background-color: #fff;
+    text-align: center;
+    border-radius: 5px;
+    box-shadow: 0 0
+  }
+  
+  .home-button a {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 20px;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .home-button a:hover {
+    background-color: #555;
+  }
+  
+  .kontainer-judul{
+      text-align: center;
+  }
+  
+  .kont-jadwal{
+    width: 100%;
+    margin-top: 0px;
+    padding: 150px;
+    background-color: #588ec9;
+  }
+  .login{
+    background-color: #093c72;
+  }
+  
